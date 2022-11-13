@@ -117,7 +117,7 @@ function App() {
         onClick={clickHandler}
         type="button"
         value="-"
-        className="bg-[#333] h-[80px] w-[80px] hover:bg-[#0e06f5] text-white font-[30px] border-black border-[1px] float-left cursor-pointer text-2xl"
+        className="bg-[#333] h-[80px] w-[80px] hover:bg-[#0e06f5] text-white font-[30px] border-black border-[1px] float-left cursor-pointer text-4xl"
       />
       <input
         onClick={clickHandler}
