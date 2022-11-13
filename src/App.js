@@ -51,61 +51,61 @@ function App() {
         onClick={clickHandler}
         type="button"
         value="1"
-        className="bg-[#333] h-[80px] w-[80px] hover:bg-[#0e06f5] text-white font-[30px] border-black border-[1px] float-left cursor-pointer"
+        className="bg-[#333] h-[80px] w-[80px] hover:bg-[#0e06f5] text-white font-[30px] border-black border-[1px] float-left cursor-pointer text-2xl"
       />
       <input
         onClick={clickHandler}
         type="button"
         value="2"
-        className="bg-[#333] h-[80px] w-[80px] hover:bg-[#0e06f5] text-white font-[30px] border-black border-[1px] float-left cursor-pointer"
+        className="bg-[#333] h-[80px] w-[80px] hover:bg-[#0e06f5] text-white font-[30px] border-black border-[1px] float-left cursor-pointer text-2xl"
       />
       <input
         onClick={clickHandler}
         type="button"
         value="3"
-        className="bg-[#333] h-[80px] w-[80px] hover:bg-[#0e06f5] text-white font-[30px] border-black border-[1px] float-left cursor-pointer"
+        className="bg-[#333] h-[80px] w-[80px] hover:bg-[#0e06f5] text-white font-[30px] border-black border-[1px] float-left cursor-pointer text-2xl"
       />
       <input
         onClick={clickHandler}
         type="button"
         value="4"
-        className="bg-[#333] h-[80px] w-[80px] hover:bg-[#0e06f5] text-white font-[30px] border-black border-[1px] float-left cursor-pointer"
+        className="bg-[#333] h-[80px] w-[80px] hover:bg-[#0e06f5] text-white font-[30px] border-black border-[1px] float-left cursor-pointer text-2xl"
       />
       <input
         onClick={clickHandler}
         type="button"
         value="5"
-        className="bg-[#333] h-[80px] w-[80px] hover:bg-[#0e06f5] text-white font-[30px] border-black border-[1px] float-left cursor-pointer"
+        className="bg-[#333] h-[80px] w-[80px] hover:bg-[#0e06f5] text-white font-[30px] border-black border-[1px] float-left cursor-pointer text-2xl"
       />
       <input
         onClick={clickHandler}
         type="button"
         value="6"
-        className="bg-[#333] h-[80px] w-[80px] hover:bg-[#0e06f5] text-white font-[30px] border-black border-[1px] float-left cursor-pointer"
+        className="bg-[#333] h-[80px] w-[80px] hover:bg-[#0e06f5] text-white font-[30px] border-black border-[1px] float-left cursor-pointer text-2xl"
       />
       <input
         onClick={clickHandler}
         type="button"
         value="7"
-        className="bg-[#333] h-[80px] w-[80px] hover:bg-[#0e06f5] text-white font-[30px] border-black border-[1px] float-left cursor-pointer"
+        className="bg-[#333] h-[80px] w-[80px] hover:bg-[#0e06f5] text-white font-[30px] border-black border-[1px] float-left cursor-pointer text-2xl"
       />
       <input
         onClick={clickHandler}
         type="button"
         value="8"
-        className="bg-[#333] h-[80px] w-[80px] hover:bg-[#0e06f5] text-white font-[30px] border-black border-[1px] float-left cursor-pointer"
+        className="bg-[#333] h-[80px] w-[80px] hover:bg-[#0e06f5] text-white font-[30px] border-black border-[1px] float-left cursor-pointer text-2xl"
       />
       <input
         onClick={clickHandler}
         type="button"
         value="9"
-        className="bg-[#333] h-[80px] w-[80px] hover:bg-[#0e06f5] text-white font-[30px] border-black border-[1px] float-left cursor-pointer"
+        className="bg-[#333] h-[80px] w-[80px] hover:bg-[#0e06f5] text-white font-[30px] border-black border-[1px] float-left cursor-pointe text-2xl"
       />
       <input
         onClick={clickHandler}
         type="button"
         value="0"
-        className="bg-[#333] h-[80px] w-[80px] hover:bg-[#0e06f5] text-white font-[30px] border-black border-[1px] float-left cursor-pointer"
+        className="bg-[#333] h-[80px] w-[80px] hover:bg-[#0e06f5] text-white font-[30px] border-black border-[1px] float-left cursor-pointer text-2xl"
       />
       <input
         onClick={clickHandler}
